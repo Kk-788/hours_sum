@@ -1,0 +1,8 @@
+enter webpage
+apply name filtering
+ensure that page has refreshed
+-
+find what items are shown (X of Y out of Z)
+if Y != Z:
+    open entry count dropdown
+    select "All" option
